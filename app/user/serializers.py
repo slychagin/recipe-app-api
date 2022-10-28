@@ -1,5 +1,4 @@
 # Serializers for the user API View
-from dataclasses import fields
 from django.contrib.auth import (
     get_user_model,
     authenticate
