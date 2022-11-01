@@ -4,7 +4,6 @@ from decimal import Decimal
 from django.test import TestCase
 from django.contrib.auth import get_user_model
 from core import models
-from symbol import file_input
 
 
 def create_user(email='user@example.com', password='testpass123'):
