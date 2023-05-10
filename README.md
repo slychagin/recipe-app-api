@@ -9,7 +9,7 @@ API реализована через Test Driven Development, каждая фу
 
 ![demo gif](https://github.com/slychagin/recipe-app-api/blob/master/api_demo.gif)
 
-## Что использовано для создания сайта:
+## Что использовано для создания API:
 - Python 3;
 - Django Framework and DRF;
 - Swagger;
